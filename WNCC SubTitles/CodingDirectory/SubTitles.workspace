@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="SubTitles" Database="" Version="10.0.0">
+  <Project Name="windowsCompatible" Path="windowsCompatible/windowsCompatible.project" Active="No"/>
+  <Project Name="OSIndependent" Path="OSIndependent/OSIndependent.project" Active="No"/>
+  <Project Name="Caller" Path="Caller/Caller.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="windowsCompatible" ConfigName="Debug"/>
+      <Project Name="OSIndependent" ConfigName="Debug"/>
+      <Project Name="Caller" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="windowsCompatible" ConfigName="Release"/>
+      <Project Name="OSIndependent" ConfigName="Release"/>
+      <Project Name="Caller" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
