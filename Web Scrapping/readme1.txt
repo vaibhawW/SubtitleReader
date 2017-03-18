@@ -1,0 +1,6 @@
+Adele
+Linkin Park
+Eminem
+Kanye West
+
+fuck
