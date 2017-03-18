@@ -1,5 +1,14 @@
 # SubtitleReader
+# R-Rater
 
+<u><b>R-Rater</b></u>
+Having a fight over which artist is more inappropriate? R-Rater that is <i>Web Scrapping</i>  will help you,
+MAJOR BUGS:
+  May be inaccurate
+  Error handelling not yet implemented,
+
+
+<u><b>R-Rater</b></u>
 Reads subtitles from program and prints them on terminal
 
 <B>MAJOR BUGS</B>
