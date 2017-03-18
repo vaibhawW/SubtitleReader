@@ -2,13 +2,12 @@
 # R-Rater
 
 <u><b>R-Rater</b></u>
-Having a fight over which artist is more inappropriate? R-Rater that is <i>Web Scrapping</i>  will help you,
-MAJOR BUGS:
-  May be inaccurate
-  Error handelling not yet implemented,
+Having a fight over which artist is more inappropriate? R-Rater that is in <i>Web Scrapping</i>  will help you,<br>
+MAJOR BUGS-<br>
+&nbsp;&nbsp;&nbsp;May be inaccurate<br>
+&nbsp;&nbsp;&nbsp;Error handelling not yet implemented,<br>
 
-
-<u><b>R-Rater</b></u>
+<u><b>Subtitle Reader</b></u>
 Reads subtitles from program and prints them on terminal
 
 <B>MAJOR BUGS</B>
